@@ -123,7 +123,7 @@ RETURN SWITCH(TRUE(),
   "Stay indoors, wear a mask if outside"
 )
 
-
+```
 💬 Final Thoughts
 This Power BI project is perfect for:
 
@@ -134,4 +134,6 @@ This Power BI project is perfect for:
 🧠 Understanding API + BI integration
 
 🚀 Deploying dashboards with live updates
+
+
 
